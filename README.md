@@ -62,8 +62,8 @@ spell_correction_full_project/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/aneesh-vishwa/spell_correction_full_project.git
-   cd spell_correction_full_project
+   git clone https://github.com/Anvitha-neena/SpellSense.git
+   cd SpellSense
    ```
 
 2. **Install Dependencies**
